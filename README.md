@@ -30,7 +30,7 @@ My recent work includes continuous-time generative models, computer vision, grap
 | Project | Focus | Stack |
 | :--- | :--- | :--- |
 | **[Neural SDE-GAN for Financial Markets](https://github.com/paolapinna03/neural-sde-gan-finance)** | Generative modeling of financial time series with a Neural SDE generator, Neural CDE critic and adversarial training on S&P 500 data. | `PyTorch` `Neural SDEs` `Neural CDEs` `WGAN-GP` |
-| **[Hybrid Molecular Prediction](https://github.com/Nateml/MolecularPredictionMSc)** *(private team repository)* | Molecular feature prediction from EI-MS spectra combined with uncertainty-aware neural models and symbolic constraints to reduce candidate structures. | `PyTorch` `Multitask MLP/CNN` `Quantile Regression` `Conformal Prediction` `ASP` |
+| **[Hybrid Molecular Prediction](https://github.com/Nateml/MolecularPredictionMSc)** | Molecular feature prediction from EI-MS spectra combined with uncertainty-aware neural models and symbolic constraints to reduce candidate structures. | `PyTorch` `Multitask MLP/CNN` `Quantile Regression` `Conformal Prediction` `ASP` |
 | **[AI-Generated Image Detection](https://github.com/paolapinna03/ai-detection-project)** | Detection of AI-generated social-media images using visual representations together with EXIF and social metadata. | `CNNs` `Semi-Supervised Learning` `Metadata Fusion` |
 
 ---
