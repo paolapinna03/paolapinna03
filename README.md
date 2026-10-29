@@ -48,14 +48,14 @@ Current research project investigating whether **open-system quantum dynamics** 
 
 ## Technical Toolkit
 
-| Languages | ML & Scientific Computing | Data & Knowledge Systems | Tools & Simulation |
+| Programming & Query Languages | ML & Scientific Computing | Data & Knowledge Systems | Tools & Web |
 | :--- | :--- | :--- | :--- |
-| Python | PyTorch | SQL | Jupyter |
-| MATLAB | scikit-learn | SPARQL | Git/GitHub |
-| R | NumPy | NoSQL | Simulink |
-|  | pandas | NetworkX |  |
-|  | torchsde / torchcde | Wikidata |  |
-|  | Hugging Face | Answer Set Programming |  |
+| Python | PyTorch | NoSQL | Jupyter |
+| MATLAB | scikit-learn | NetworkX | Git/GitHub |
+| R | NumPy | Wikidata | Simulink |
+| SQL | pandas | Answer Set Programming | HTML / CSS |
+| JavaScript | torchsde / torchcde |  |  |
+| SPARQL | Hugging Face |  |  |
 
 ### Selected Methods
 
