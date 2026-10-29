@@ -21,7 +21,7 @@ Machine Learning · Generative Modeling · Computer Vision · Autonomous Systems
 
 I’m an MSc Artificial Intelligence student at Maastricht University, with a background in Management and Computer Science from LUISS University.
 
-My projects span different areas of AI, from generative modeling and computer vision to autonomous systems, knowledge-based reasoning and algorithmic problems.
+My projects include generative models, visual recognition systems, autonomous agents, and knowledge-based approaches to complex data and decision-making, and algorithmic problems.
 
 I’m especially interested in problems where there is more to understand than simply choosing the right model. I like exploring how different systems behave, how mathematical ideas translate into implementations, and what happens when methods from different areas are brought together. I enjoy having the freedom to explore rather than staying within a single narrow area.
 
