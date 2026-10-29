@@ -117,8 +117,5 @@ Alongside my featured repositories, my academic work has included:
 
 ---
 
-<div align="center">
-
-**Interested in building intelligent systems grounded in strong modelling, experimentation and data.**
 
 </div>
