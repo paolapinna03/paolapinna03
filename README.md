@@ -54,9 +54,8 @@ Current research project investigating whether **open-system quantum dynamics** 
 | MATLAB | scikit-learn | SPARQL | Git/GitHub |
 | R | NumPy | NoSQL | Simulink |
 |  | pandas | NetworkX |  |
-|  | torchsde | Wikidata |  |
-|  | torchcde | Answer Set Programming |  |
-|  | Hugging Face |  |  |
+|  | torchsde / torchcde | Wikidata |  |
+|  | Hugging Face | Answer Set Programming |  |
 
 ### Selected Methods
 
