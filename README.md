@@ -4,7 +4,7 @@
 
 ### MSc Artificial Intelligence @ Maastricht University
 
-Generative Models · Computer Vision · Robotics · Quantum Computing
+Machine Learning · Generative Models · Computer Vision · Autonomous Systems · Quantum Computing
 
 <br>
 
