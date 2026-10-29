@@ -115,7 +115,4 @@ Alongside my featured repositories, my academic work has included:
 | **Interested in** | AI, Machine Learning, intelligent systems and research-oriented projects |
 | **Building** | A portfolio spanning generative AI, computer vision, graphs, robotics and quantitative modelling |
 
----
 
-
-</div>
