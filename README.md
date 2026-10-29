@@ -17,77 +17,56 @@ Machine Learning · Generative Modeling · Computer Vision · Autonomous Systems
 
 ---
 
-## About Me
+## About
 
-I'm currently pursuing an **MSc in Artificial Intelligence at Maastricht University**, after completing a BSc in **Management and Computer Science at LUISS University**.
+I'm an **MSc Artificial Intelligence student at Maastricht University**, following a BSc in **Management and Computer Science at LUISS University**.
 
-I enjoy working on problems that combine **machine learning with mathematical modelling**, especially when they involve generative models, computer vision, autonomous systems or structured data.
-
-My projects have taken me from **Neural SDEs for financial markets** to **AI-generated image detection, knowledge graphs, robotics, game search and control systems**. I'm also developing a growing interest in **Quantum Computing**.
+My recent work includes continuous-time generative models, computer vision, graph-based analysis, classical search, robotics and control. I am currently specialising in **Quantum Computing**, with a growing focus on the intersection of quantum systems and machine learning.
 
 ---
 
 ## Featured Projects
 
-| Project | What I worked on | Tech |
+| Project | Focus | Stack |
 | :--- | :--- | :--- |
-| **[Neural SDE-GAN for Financial Markets](https://github.com/paolapinna03/neural-sde-gan-finance)** | Built a generative model for financial time series using a Neural SDE generator and Neural CDE critic, trained on S&P 500 data. | `Python` `PyTorch` `torchsde` `torchcde` `WGAN-GP` |
-| **[AI-Generated Image Detection](https://github.com/paolapinna03/ai-detection-project)** | Developed a computer vision pipeline to detect AI-generated Instagram images using visual features together with EXIF and social-media metadata. | `CNNs` `Computer Vision` `Semi-Supervised Learning` `Metadata Fusion` |
+| **[Neural SDE-GAN for Financial Markets](https://github.com/paolapinna03/neural-sde-gan-finance)** | Generative modeling of financial time series with a Neural SDE generator, Neural CDE critic and adversarial training on S&P 500 data. | `PyTorch` `Neural SDEs` `Neural CDEs` `WGAN-GP` |
+| **Hybrid Molecular Prediction** | Molecular feature prediction from EI-MS spectra combined with uncertainty-aware neural models and symbolic constraints to reduce candidate structures. | `PyTorch` `Multitask MLP/CNN` `Quantile Regression` `Conformal Prediction` `ASP` |
+| **[AI-Generated Image Detection](https://github.com/paolapinna03/ai-detection-project)** | Detection of AI-generated social-media images using visual representations together with EXIF and social metadata. | `CNNs` `Semi-Supervised Learning` `Metadata Fusion` |
 
 ---
 
-## Areas of Interest
+## Current Research
 
-| Artificial Intelligence | Modelling & Intelligent Systems |
-| :--- | :--- |
-| Machine Learning | Statistical Modelling |
-| Generative Models | Knowledge Graphs |
-| Computer Vision | Robotics & Autonomous Systems |
-| Multi-Agent Systems | Game AI & Search |
-| Quantum Computing | Control & Optimisation |
+### Dissipative Quantum Transformers — *in progress*
+
+Current research project investigating whether **open-system quantum dynamics** can provide a physically motivated mechanism for attention, with planned work involving PyTorch-based simulation, density-matrix representations and Lindblad dynamics.
 
 ---
 
 ## Technical Toolkit
 
-| Languages & Query | ML & Scientific Computing | Data, Graph & Symbolic | Simulation & Development |
-| :--- | :--- | :--- | :--- |
-| Python | PyTorch | NetworkX | MATLAB / Simulink |
-| MATLAB | scikit-learn | Wikidata | Jupyter |
-| R | NumPy | Answer Set Programming | Git & GitHub |
-| SQL | pandas | NoSQL |  |
-| SPARQL | torchsde / torchcde |  |  |
-|  | Hugging Face |  |  |
+**Languages**  
+Python · MATLAB · R
 
-### Selected Methods & Algorithms
+**ML & Scientific Computing**  
+PyTorch · scikit-learn · NumPy · pandas · torchsde · torchcde · Hugging Face
+
+**Data & Knowledge Systems**  
+SQL · SPARQL · NoSQL · NetworkX · Wikidata · Answer Set Programming
+
+**Tools & Simulation**  
+Jupyter · Git/GitHub · Simulink
+
+### Selected Methods
 
 **Machine Learning & Generative Modeling**  
-Neural SDEs · Neural CDEs · WGAN-GP · Transformers · Multitask MLP/CNN · Quantile Regression · Conformal Prediction · Semi-Supervised Learning · Metadata Fusion
+Neural SDEs/CDEs · WGAN-GP · CNNs · Multitask Learning · Quantile Regression · Conformal Prediction · Semi-Supervised Learning · Transformers *(current research)*
 
 **Search, Graphs & Symbolic AI**  
-Negamax · Alpha-Beta Pruning · Iterative Deepening · Transposition Tables · Search Heuristics · Graph Centrality · Community Detection · ASP Constraint Solving
+Negamax · Alpha-Beta Pruning · Iterative Deepening · Transposition Tables · Graph Centrality · Community Detection · ASP Constraint Solving
 
-**Multi-Agent Systems**  
-Decentralized Coordination · Distributed Task Allocation · Auction-Based Allocation · Frontier-Based Exploration · Local Multi-Hop Communication
+**Multi-Agent & Autonomous Systems**  
+Decentralized Coordination · Distributed Task Allocation · Auction-Based Allocation · Frontier-Based Exploration · EKF Localization · Differential-Drive Modeling
 
-**Robotics & Control**  
-EKF Localization · Differential-Drive Modeling · Range-Bearing Observation Models · LQR · Observer Design · Pole Placement · iLQR · Trajectory Optimization
-
----
-
-## Other Technical Work
-
-I've also worked on:
-
-- **Hybrid Molecular Prediction** — neural prediction from EI-MS spectra combined with symbolic constraints and conformal calibration.
-- **Knowledge Graphs & Network Analysis** — Wikidata/SPARQL pipelines, NetworkX, centrality and community analysis.
-- **Game AI** — Negamax, alpha-beta pruning, iterative deepening and search heuristics for an asymmetric chess variant.
-- **Robotics & Control** — differential-drive simulation, EKF-based localisation, LQR and iterative LQR.
-
----
-
-## Right Now
-
-🎓 MSc Artificial Intelligence @ Maastricht University  
-⚛️ Learning more about Quantum Computing  
-🔬 Interested in machine learning, intelligent systems and research-driven AI projects
+**Control & Optimization**  
+LQR · Observer Design · Pole Placement · iLQR · Trajectory Optimization
