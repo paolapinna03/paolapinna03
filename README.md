@@ -24,6 +24,8 @@ I’m an MSc Artificial Intelligence student at Maastricht University, with a ba
 I’m especially interested in problems where there is more to understand than simply choosing the right model. I like exploring how different systems behave, how mathematical ideas translate into implementations, and what happens when methods from different areas are brought together. That curiosity is what has led me to work across quite different parts of AI, from generative models and autonomous systems to more theoretical and algorithmic problems.
 
 I enjoy having the freedom to explore rather than staying within a single narrow area, especially when a project forces me to rethink the problem from a different perspective. 
+Quantum computing is one of the directions I’m currently exploring more deeply, particularly because it opens up a completely different way of thinking about computation and learning.
+
 ---
 
 ## Featured Projects
