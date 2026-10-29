@@ -64,30 +64,32 @@ My projects have taken me from **Neural SDEs for financial markets** to **AI-gen
 </td>
 <td valign="top" width="33%">
 
-### AI & Data
+### ML & Scientific Computing
 
 - PyTorch
 - NumPy
 - pandas
 - scikit-learn
-- Machine Learning
-- Deep Learning
+- torchsde
+- torchcde
 
 </td>
 <td valign="top" width="33%">
 
-### Methods & Tools
+### Tools & Technologies
 
+- Hugging Face
 - Jupyter
 - Git & GitHub
+- MATLAB / Simulink
 - NetworkX
 - SPARQL
-- Statistical Modelling
-- Data Visualisation
 
 </td>
 </tr>
 </table>
+
+**Methods:** Machine Learning · Deep Learning · Generative Modeling · Computer Vision · Graph Analysis · Control & Optimisation
 
 ---
 
