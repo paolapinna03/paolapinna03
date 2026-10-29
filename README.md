@@ -4,7 +4,7 @@
 
 ### MSc Artificial Intelligence @ Maastricht University
 
-Machine Learning · Deep Learning · Intelligent Systems · Data Science
+Generative Models · Computer Vision · Robotics · Quantum Computing
 
 <br>
 
@@ -19,35 +19,32 @@ Machine Learning · Deep Learning · Intelligent Systems · Data Science
 
 ## About Me
 
-I am an **MSc Artificial Intelligence student at Maastricht University**, with a BSc in **Management and Computer Science** from LUISS University.
+I'm currently pursuing an **MSc in Artificial Intelligence at Maastricht University**, after completing a BSc in **Management and Computer Science at LUISS University**.
 
-My interests span **machine learning, mathematical modelling and intelligent systems**, with a particular focus on generative modelling, neuro-symbolic approaches, computer vision, autonomous systems and data-driven research.
+I enjoy working on problems that combine **machine learning with mathematical modelling**, especially when they involve generative models, computer vision, autonomous systems or structured data.
 
-I am also exploring **Quantum Computing** as part of my academic path.
+My projects have taken me from **Neural SDEs for financial markets** to **AI-generated image detection, knowledge graphs, robotics, game search and control systems**. I'm also developing a growing interest in **Quantum Computing**.
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Main Technologies |
+| Project | What I worked on | Tech |
 | :--- | :--- | :--- |
-| **[Neural SDE-GAN for Financial Markets](https://github.com/paolapinna03/neural-sde-gan-finance)** | Research-oriented generative modelling of financial time series using Neural Stochastic Differential Equations, a Neural CDE critic and adversarial training on S&P 500 data. | `Python` `PyTorch` `torchsde` `torchcde` `WGAN-GP` |
-| **[AI-Generated Image Detection](https://github.com/paolapinna03/ai-detection-project)** | Computer vision pipeline for detecting AI-generated Instagram images by combining visual features with EXIF and social-media metadata. | `Computer Vision` `CNNs` `Semi-Supervised Learning` `Metadata Fusion` |
+| **[Neural SDE-GAN for Financial Markets](https://github.com/paolapinna03/neural-sde-gan-finance)** | Built a generative model for financial time series using a Neural SDE generator and Neural CDE critic, trained on S&P 500 data. | `Python` `PyTorch` `torchsde` `torchcde` `WGAN-GP` |
+| **[AI-Generated Image Detection](https://github.com/paolapinna03/ai-detection-project)** | Developed a computer vision pipeline to detect AI-generated Instagram images using visual features together with EXIF and social-media metadata. | `CNNs` `Computer Vision` `Semi-Supervised Learning` `Metadata Fusion` |
 
 ---
 
 ## Areas of Interest
 
-| Artificial Intelligence | Data, Modelling & Intelligent Systems |
+| Artificial Intelligence | Modelling & Intelligent Systems |
 | :--- | :--- |
 | Machine Learning | Statistical Modelling |
-| Deep Learning | Data Analysis |
-| Generative Models | Quantitative Methods |
-| Neuro-Symbolic AI | Knowledge Graphs |
-| Computer Vision | Network Analysis |
-| Multi-Agent Systems | Robotics & Autonomous Systems |
-| Game AI & Search | Control & Optimisation |
-| Quantum Computing | Scientific Computing |
+| Generative Models | Knowledge Graphs |
+| Computer Vision | Robotics & Autonomous Systems |
+| Multi-Agent Systems | Game AI & Search |
+| Quantum Computing | Control & Optimisation |
 
 ---
 
@@ -94,25 +91,19 @@ I am also exploring **Quantum Computing** as part of my academic path.
 
 ---
 
-## Selected Technical Work
+## Other Technical Work
 
-Alongside my featured repositories, my academic work has included:
+I've also worked on:
 
-- **Hybrid Neuro-Symbolic Molecular Prediction** — neural prediction from EI-MS spectra combined with symbolic constraints and conformal calibration.
-- **Knowledge Graph & Network Analysis** — Wikidata/SPARQL pipelines, NetworkX, centrality and community analysis.
-- **Game AI & Search** — Negamax, alpha-beta pruning, iterative deepening and search heuristics for an asymmetric chess variant.
-- **Robotics & Autonomous Systems** — differential-drive simulation, range sensing and EKF-based localisation.
-- **Control & Optimisation** — nonlinear system modelling, LQR, observer design and iterative LQR.
-- **Neural Networks from Scratch** — manual feed-forward and backpropagation implementation with NumPy.
+- **Hybrid Molecular Prediction** — neural prediction from EI-MS spectra combined with symbolic constraints and conformal calibration.
+- **Knowledge Graphs & Network Analysis** — Wikidata/SPARQL pipelines, NetworkX, centrality and community analysis.
+- **Game AI** — Negamax, alpha-beta pruning, iterative deepening and search heuristics for an asymmetric chess variant.
+- **Robotics & Control** — differential-drive simulation, EKF-based localisation, LQR and iterative LQR.
 
 ---
 
-## Currently
+## Right Now
 
-| | |
-| :--- | :--- |
-| **Studying** | MSc Artificial Intelligence — Maastricht University |
-| **Exploring** | Quantum Computing |
-| **Interested in** | AI, Machine Learning, intelligent systems and research-oriented projects |
-| **Building** | A portfolio spanning generative AI, computer vision, graphs, robotics and quantitative modelling |
-
+🎓 MSc Artificial Intelligence @ Maastricht University  
+⚛️ Learning more about Quantum Computing  
+🔬 Interested in machine learning, intelligent systems and research-driven AI projects
