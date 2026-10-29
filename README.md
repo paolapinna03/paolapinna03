@@ -89,7 +89,16 @@ My projects have taken me from **Neural SDEs for financial markets** to **AI-gen
 </tr>
 </table>
 
-**Methods:** Machine Learning · Deep Learning · Generative Modeling · Computer Vision · Graph Analysis · Control & Optimisation
+### Methods & Algorithms
+
+**Machine Learning & Generative Modeling**  
+Neural SDEs · Neural CDEs · WGAN-GP · Multitask MLP/CNN · Quantile Regression · Probability Thresholding · Conformal Prediction & Calibration · Semi-Supervised Learning · Metadata Fusion · Manual Backpropagation
+
+**Search, Graphs & Symbolic Reasoning**  
+Negamax · Alpha-Beta Pruning · Iterative Deepening · Transposition Tables · Move Ordering · Killer/History Heuristics · ASP Constraint Solving · Centrality Analysis · Community Detection · Network Analysis
+
+**Robotics, Control & Simulation**  
+Differential-Drive Modeling · Ray Casting · Range-Bearing Observation Models · EKF Localization · Jacobian-Based State Estimation · Covariance & Noise Modeling · Collision Handling · Linearization & Discretization · LQR · Observer Design · Pole Placement · iLQR · Line Search · Monte Carlo Simulation · Equilibrium Modeling
 
 ---
 
