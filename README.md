@@ -62,6 +62,7 @@ I am also exploring **Quantum Computing** as part of my academic path.
 - Python
 - SQL
 - R
+- MATLAB
 
 </td>
 <td valign="top" width="33%">
@@ -114,5 +115,4 @@ Alongside my featured repositories, my academic work has included:
 | **Exploring** | Quantum Computing |
 | **Interested in** | AI, Machine Learning, intelligent systems and research-oriented projects |
 | **Building** | A portfolio spanning generative AI, computer vision, graphs, robotics and quantitative modelling |
-
 
