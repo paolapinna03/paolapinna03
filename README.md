@@ -19,10 +19,11 @@ Machine Learning · Generative Modeling · Computer Vision · Autonomous Systems
 
 ## About
 
-I'm an **MSc Artificial Intelligence student at Maastricht University**, following a BSc in **Management and Computer Science at LUISS University**.
+I’m an MSc Artificial Intelligence student at Maastricht University, with a background in Management and Computer Science from LUISS University.
 
-My recent work includes continuous-time generative models, computer vision, graph-based analysis, classical search, robotics and control. I am currently specialising in **Quantum Computing**, with a growing focus on the intersection of quantum systems and machine learning.
+I’m especially interested in problems where there is more to understand than simply choosing the right model. I like exploring how different systems behave, how mathematical ideas translate into implementations, and what happens when methods from different areas are brought together. That curiosity is what has led me to work across quite different parts of AI, from generative models and autonomous systems to more theoretical and algorithmic problems.
 
+I enjoy having the freedom to explore rather than staying within a single narrow area, especially when a project forces me to rethink the problem from a different perspective. 
 ---
 
 ## Featured Projects
