@@ -50,55 +50,28 @@ My projects have taken me from **Neural SDEs for financial markets** to **AI-gen
 
 ## Technical Toolkit
 
-<table>
-<tr>
-<td valign="top" width="33%">
+| Languages & Query | ML & Scientific Computing | Data, Graph & Symbolic | Simulation & Development |
+| :--- | :--- | :--- | :--- |
+| Python | PyTorch | NetworkX | MATLAB / Simulink |
+| MATLAB | scikit-learn | Wikidata | Jupyter |
+| R | NumPy | Answer Set Programming | Git & GitHub |
+| SQL | pandas | NoSQL |  |
+| SPARQL | torchsde / torchcde |  |  |
+|  | Hugging Face |  |  |
 
-### Languages
-
-- Python
-- SQL
-- R
-- MATLAB
-
-</td>
-<td valign="top" width="33%">
-
-### ML & Scientific Computing
-
-- PyTorch
-- NumPy
-- pandas
-- scikit-learn
-- torchsde
-- torchcde
-
-</td>
-<td valign="top" width="33%">
-
-### Tools & Technologies
-
-- Hugging Face
-- Jupyter
-- Git & GitHub
-- MATLAB / Simulink
-- NetworkX
-- SPARQL
-
-</td>
-</tr>
-</table>
-
-### Methods & Algorithms
+### Selected Methods & Algorithms
 
 **Machine Learning & Generative Modeling**  
-Neural SDEs · Neural CDEs · WGAN-GP · Multitask MLP/CNN · Quantile Regression · Probability Thresholding · Conformal Prediction & Calibration · Semi-Supervised Learning · Metadata Fusion · Manual Backpropagation
+Neural SDEs · Neural CDEs · WGAN-GP · Transformers · Multitask MLP/CNN · Quantile Regression · Conformal Prediction · Semi-Supervised Learning · Metadata Fusion
 
-**Search, Graphs & Symbolic Reasoning**  
-Negamax · Alpha-Beta Pruning · Iterative Deepening · Transposition Tables · Move Ordering · Killer/History Heuristics · ASP Constraint Solving · Centrality Analysis · Community Detection · Network Analysis
+**Search, Graphs & Symbolic AI**  
+Negamax · Alpha-Beta Pruning · Iterative Deepening · Transposition Tables · Search Heuristics · Graph Centrality · Community Detection · ASP Constraint Solving
 
-**Robotics, Control & Simulation**  
-Differential-Drive Modeling · Ray Casting · Range-Bearing Observation Models · EKF Localization · Jacobian-Based State Estimation · Covariance & Noise Modeling · Collision Handling · Linearization & Discretization · LQR · Observer Design · Pole Placement · iLQR · Line Search · Monte Carlo Simulation · Equilibrium Modeling
+**Multi-Agent Systems**  
+Decentralized Coordination · Distributed Task Allocation · Auction-Based Allocation · Frontier-Based Exploration · Local Multi-Hop Communication
+
+**Robotics & Control**  
+EKF Localization · Differential-Drive Modeling · Range-Bearing Observation Models · LQR · Observer Design · Pole Placement · iLQR · Trajectory Optimization
 
 ---
 
